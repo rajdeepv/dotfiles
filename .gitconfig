@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	br = branch
+	st = status
+[user]
+	name = Rajdeep Varma
+	email = mail.rajvarma@gmail.com
+[push]
+	default = simple
